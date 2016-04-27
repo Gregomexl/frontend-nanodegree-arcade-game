@@ -1,6 +1,13 @@
-frontend-nanodegree-arcade-game
-===============================
+#P3: Arcade Game
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+Navigate the player across a path full of cutes enemies.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+##Instructions:
+ 
+* You starts with a total of 3 lives.
+ 
+* The keys to manipulate the caracter (up, down, left, and right).
+
+* Points are accumulated by reaching the river.
+
+* If a player hits a enemie, you loses a life and the caracter returns to the initial position.
